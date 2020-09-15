@@ -1,4 +1,5 @@
 # Write a speak_to_grandma method.
+requires pry
 def speak_to_grandma
   greeting = "Hi Nana, how are you?"
   if greeting != "Hi Grandma, it's nice to see you again!".upcase
